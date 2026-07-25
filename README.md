@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png.png" width="100%" alt="Banner"/>
+  <img src="./banner.png" width="100%">
 </p>
 
 # Hi, I'm Shahad 👋
