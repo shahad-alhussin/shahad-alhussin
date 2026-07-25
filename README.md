@@ -39,7 +39,4 @@ Passionate about IT Support, Linux, Windows Server, Networking, and Cloud techno
 
 ---
 
-## 📫 Connect
 
-- LinkedIn
-- Email
