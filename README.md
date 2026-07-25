@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png.png" width="100%" alt="Banner"/>
+</p>
 
-<!--
-**shahad-alhussin/shahad-alhussin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shahad 👋
 
-Here are some ideas to get you started:
+### IT Support & Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about IT Support, Linux, Windows Server, Networking, and Cloud technologies.
+
+---
+
+## 🛠 Tech Stack
+
+- Linux
+- Windows Server
+- Networking
+- Oracle Cloud (OCI)
+- Power BI
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🐧 Linux System Administration Lab
+- 📊 IT Support Dashboard
+- 🖥 Windows Server Administration Lab
+
+---
+
+## 📜 Certifications
+
+- Cisco Cybersecurity Essentials
+- CCNA Introduction to Networks
+- CCNA Routing & Switching Essentials
+- IT Essentials
+- OCI Foundations Associate
+
+---
+
+## 📫 Connect
+
+- LinkedIn
+- Email
